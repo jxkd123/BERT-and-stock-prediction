@@ -6,6 +6,8 @@ https://github.com/brightmart
 
 https://github.com/MorvanZhou/NLP-Tutorials
 
+https://mofanpy.com/tutorials/machine-learning/nlp/seq2seq-attention/
+
 https://github.com/YangBin1729/nlp_notes
 
 https://github.com/ProsusAI/finBERT
