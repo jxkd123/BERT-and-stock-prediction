@@ -1,4 +1,9 @@
 # BERT-and-stock-prediction
+
+BERT Transformer 中文视频教材
+
+https://github.com/aespresso
+
 https://github.com/altogi/StockPredictionsWithFinancialNews#1-selecting-a-dataset
 
 中文资料：(这个仓库的资料丰富)
