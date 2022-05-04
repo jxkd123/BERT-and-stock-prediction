@@ -20,6 +20,8 @@ the key link for FinBert from UC Berkley
 
 https://github.com/psnonis/FinBERT
 
+https://drive.google.com/drive/folders/1rcRXZhb3JLY3A_kIO8gMk8jacRyR-Ik6
+
 code for Probabilistic Machine Learning:An Introduction
 
 https://github.com/probml/pyprobml
