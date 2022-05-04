@@ -19,3 +19,7 @@ https://github.com/SuperMan0010/STOCK_PRICE_FINBERT
 the key link for FinBert from UC Berkley
 
 https://github.com/psnonis/FinBERT
+
+code for Probabilistic Machine Learning:An Introduction
+
+https://github.com/probml/pyprobml
