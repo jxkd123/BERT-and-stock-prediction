@@ -1,6 +1,9 @@
 # BERT-and-stock-prediction
 
 BERT Transformer 中文视频教材
+
+https://zh.d2l.ai/chapter_installation/index.html
+
 https://www.youtube.com/watch?v=C4X0Cb5_FSohttps://github.com/d2l-ai/d2l-zh
 
 https://github.com/aespresso
