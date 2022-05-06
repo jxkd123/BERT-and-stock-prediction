@@ -1,5 +1,8 @@
 # BERT-and-stock-prediction
 
+中文预训练BERT模型
+https://github.com/CLUEbenchmark/CLUEPretrainedModels
+
 BERT Transformer 中文视频教材
 
 https://zh.d2l.ai/chapter_installation/index.html
